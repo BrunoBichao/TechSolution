@@ -1,6 +1,10 @@
-O projeto em questão foi desenvolvido por seis estudantes do curso superior na área de Análise e Desenvolvimento de Sistemasm.
+# Projeto de Desenvolvimento web em html5, css, javascript e php
+O projeto em questão foi desenvolvido por seis estudantes do curso superior na área de Análise e Desenvolvimento de Sistemas.
 
+
+# Objetivo
 A elaboração do projeto de extensão teve como ponto de partida a identificação de uma problemática recorrente no contexto urbano: a dificuldade de micro e pequenas empresas de assistência técnica em estabelecer uma presença digital funcional e acessível.
+
 Os objetivos do projeto consistem em desenvolver um site funcional e acessível para uma empresa fictícia de assistência técnica, com o propósito de facilitar o acesso dos usuários aos serviços e produtos oferecidos.
 
 
@@ -8,13 +12,14 @@ Os objetivos do projeto consistem em desenvolver um site funcional e acessível 
 
 
 
+# Membros da equipe
 
-Tecnologias utilizadas
+Fábio Ferraz Pimentel
 
-HTML
+Bruno Pires Bichão
 
-CSS
+José Xavier de Paula Neto
 
-JavaScript
+Everton Moreira da Silva Souza
 
-Php
+Eronildo Rodrigues de Andrade Filho
